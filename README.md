@@ -1,18 +1,6 @@
 # Waveshare-EInk
 
-  1, install the Python libraries.
-  
-  2, open readme.txt and connect waveshare loader to proper pinouts.
-  
-  3, change the current directory to where the demo files located.
-  
-  4, run the demo with: 
-  
-     python3 main.py
-
- 
-Additionally included here is a template for makeing a tri-color 298x126 e-paper business card.
-To run:
+This is a business card template for the waveshare 298x128 tricolor e-paper.  In addition to installing the waveshare libraries on the Raspberry Pi (and prerequisite libraries), the following steps should be taken:
 
   1, upload an 84x69 bitmap image
   
@@ -22,5 +10,5 @@ To run:
   
   4, python3 business_card.py
   
-  5, adjust poition and size of elements as necessary
+  5, adjust poition and size of elements as necessary on successive executions
   
