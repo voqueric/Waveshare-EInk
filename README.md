@@ -10,5 +10,5 @@ This is a business card template for the waveshare 298x128 tricolor e-paper.  In
   
   4, python3 business_card.py
   
-  5, adjust poition and size of elements as necessary on successive executions
+  5, adjust position and size of elements as necessary on successive executions
   
